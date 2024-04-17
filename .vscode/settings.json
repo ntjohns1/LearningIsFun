@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "pydev/bin/python3.12",
+    "python.formatting.provider": "yapf"
+}
