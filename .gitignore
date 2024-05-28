@@ -1,5 +1,23 @@
+
+data
 pydev/
 .env
-Colab Notebooks/quant_trading_book/store
-Colab Notebooks/quant_trading_book
-Colab Notebooks/.ipynb_checkpoints
+Notebooks/quant_trading_book/store
+Notebooks/quant_trading_book
+Notebooks/.ipynb_checkpoints
+mysql.env
+# data
+store
+archive
+test
+# data/.idea
+# data/SQL
+*.csv
+*.h5
+*.xlsx
+*.pickle
+*.png
+*.parquette
+*.txt
+db
+.vscode
